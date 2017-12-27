@@ -1,0 +1,16 @@
+configparser==3.5.0b2
+facebook==0.0
+facebookads==2.6
+gspread==0.2.5
+httplib2==0.9.1
+MySQL-python==1.2.5
+numpy==1.9.2
+oauth2client==1.4.12
+psycopg2==2.6.2
+pyasn1==0.1.8
+pyasn1-modules==0.0.6
+pycrypto==2.6.1
+requests==2.7.0
+rsa==3.1.4
+six==1.9.0
+wheel==0.24.0
